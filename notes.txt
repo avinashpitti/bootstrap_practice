@@ -11,3 +11,16 @@ container-md : 100% width until md break point, then Fixed
 container-lg : 100% width until lg break point, then Fixed
 container-xl : 100% width until xl break point, then Fixed
 container-xxl : 100% width until xxl break point, then Fixed
+
+
+table important classes in Bootstrap:
+class='table'
+class='table-bordered'
+class='table-borderless'
+class='table-dark'
+class='table-striped'
+class='table-hover'
+class='table-primary'
+class='table-success'
+class='table-danger'
+
