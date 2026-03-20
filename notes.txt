@@ -1,0 +1,13 @@
+Bootstrap layout is built on 3 core things :
+containers
+grid systems
+flexbox utilities
+
+layout containers:
+container-fluid : Always 100% width
+container : Fixed width, changes at each break point
+container-sm : 100% width until sm break point, then Fixed
+container-md : 100% width until md break point, then Fixed
+container-lg : 100% width until lg break point, then Fixed
+container-xl : 100% width until xl break point, then Fixed
+container-xxl : 100% width until xxl break point, then Fixed
